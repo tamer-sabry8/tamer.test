@@ -1,4 +1,4 @@
 # TEST repository
 Disposable verification fixture.
 
-TEST sample result: initial approval candidate.
+TEST sample result: revised candidate requiring fresh review.
