@@ -1,4 +1,4 @@
 # TEST repository
 Disposable verification fixture.
 
-TEST sample result: pending review.
+TEST sample result: revised candidate requiring fresh review.
